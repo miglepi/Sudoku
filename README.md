@@ -1,2 +1,2 @@
-"# Sudoku" 
+"Sudoku" 
 KCS final project
